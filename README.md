@@ -1,4 +1,4 @@
-# ATH Dip Buyback Bot 🦀
+# ATH Dip Buyback Bot (I think I want to name it ClawBack not sure yet)
 
 Automated buyback bot for Solana tokens. Monitors price and executes buybacks when price dips from all-time high.
 
