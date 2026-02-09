@@ -1,0 +1,11 @@
+{
+  "token_mint": "YOUR_TOKEN_MINT_ADDRESS",
+  "dev_wallet_pubkey": "YOUR_WALLET_PUBLIC_KEY",
+  "dev_wallet_private_key": "YOUR_PRIVATE_KEY_BASE58",
+  "rpc_url": "https://mainnet.helius-rpc.com/?api-key=YOUR_HELIUS_KEY",
+  "dip_threshold": 0.25,
+  "buyback_percent": 0.90,
+  "min_sol_balance": 0.01,
+  "poll_interval": 3,
+  "slippage_bps": 100
+}
