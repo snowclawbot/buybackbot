@@ -1,4 +1,4 @@
-# ATH Dip Buyback Bot (BASTION)
+# ATH Dip Buyback Bot ($recoilcoin)
 
 Automated buyback bot for Solana tokens. Monitors price and executes buybacks when price dips from all-time high.
 
